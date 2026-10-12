@@ -5,3 +5,25 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 *.pt
+
+# Local environments and tooling
+.env
+.env.*
+!.env.example
+.coverage
+htmlcov/
+
+# Downloaded models and large media inputs
+*.pth
+*.onnx
+*.webm
+*.mp4
+*.avi
+*.mov
+
+# Generated pipeline artifacts
+outputs/
+
+# Local packaging/submission artifacts
+submission/
+*.zip
