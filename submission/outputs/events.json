@@ -1,0 +1,201 @@
+[
+  {
+    "timestamp": 37.16379576703229,
+    "frame_id": 1115,
+    "event": "vehicle_detected",
+    "object_id": 2,
+    "object_type": "vehicle",
+    "confidence": 0.5970599055290222,
+    "bbox": [
+      809.0297241210938,
+      534.09228515625,
+      1022.7211303710938,
+      655.2421875
+    ]
+  },
+  {
+    "timestamp": 37.16379576703229,
+    "frame_id": 1115,
+    "event": "character_detected",
+    "object_id": 1,
+    "object_type": "character",
+    "confidence": 0.45259562134742737,
+    "bbox": [
+      507.1193542480469,
+      674.177490234375,
+      955.753173828125,
+      1080.0
+    ]
+  },
+  {
+    "timestamp": 37.797080179205935,
+    "frame_id": 1134,
+    "event": "character_disappeared",
+    "object_id": 1,
+    "object_type": "character",
+    "confidence": 0.38390547037124634,
+    "bbox": [
+      752.878173828125,
+      661.256591796875,
+      964.029541015625,
+      932.865966796875
+    ]
+  },
+  {
+    "timestamp": 79.16055152170554,
+    "frame_id": 2375,
+    "event": "character_detected",
+    "object_id": 2,
+    "object_type": "character",
+    "confidence": 0.8995915055274963,
+    "bbox": [
+      1417.633544921875,
+      481.7318420410156,
+      1582.334228515625,
+      782.9766845703125
+    ]
+  },
+  {
+    "timestamp": 79.16055152170554,
+    "frame_id": 2375,
+    "event": "character_detected",
+    "object_id": 1,
+    "object_type": "character",
+    "confidence": 0.8831647634506226,
+    "bbox": [
+      1011.086181640625,
+      482.76544189453125,
+      1184.537353515625,
+      785.2815551757812
+    ]
+  },
+  {
+    "timestamp": 79.16055152170554,
+    "frame_id": 2375,
+    "event": "character_detected",
+    "object_id": 3,
+    "object_type": "character",
+    "confidence": 0.7491300702095032,
+    "bbox": [
+      1801.5299072265625,
+      484.20819091796875,
+      1916.8128662109375,
+      741.1687622070312
+    ]
+  },
+  {
+    "timestamp": 79.16055152170554,
+    "frame_id": 2375,
+    "event": "character_detected",
+    "object_id": 4,
+    "object_type": "character",
+    "confidence": 0.720466136932373,
+    "bbox": [
+      760.0166015625,
+      589.5584716796875,
+      996.8656005859375,
+      932.8118896484375
+    ]
+  },
+  {
+    "timestamp": 80.99374324115557,
+    "frame_id": 2430,
+    "event": "ammo_changed",
+    "object_id": "ammo",
+    "object_type": "ammo",
+    "confidence": 0.9338584097218197,
+    "bbox": null,
+    "metadata": {
+      "previous_value": 14,
+      "current_value": 12,
+      "source": "ocr",
+      "confidence_available": true
+    }
+  },
+  {
+    "timestamp": 81.46037386065194,
+    "frame_id": 2444,
+    "event": "character_detected",
+    "object_id": 7,
+    "object_type": "character",
+    "confidence": 0.883094072341919,
+    "bbox": [
+      909.8289794921875,
+      484.8108825683594,
+      1066.3768310546875,
+      771.4893798828125
+    ]
+  },
+  {
+    "timestamp": 81.46037386065194,
+    "frame_id": 2444,
+    "event": "character_detected",
+    "object_id": 5,
+    "object_type": "character",
+    "confidence": 0.8641957640647888,
+    "bbox": [
+      501.4112243652344,
+      488.37841796875,
+      674.7286376953125,
+      783.8470458984375
+    ]
+  },
+  {
+    "timestamp": 81.99366599721922,
+    "frame_id": 2460,
+    "event": "character_disappeared",
+    "object_id": 7,
+    "object_type": "character",
+    "confidence": 0.8927947282791138,
+    "bbox": [
+      896.164306640625,
+      483.800048828125,
+      1050.2855224609375,
+      767.7099609375
+    ]
+  },
+  {
+    "timestamp": 83.66020392399197,
+    "frame_id": 2510,
+    "event": "ammo_changed",
+    "object_id": "ammo",
+    "object_type": "ammo",
+    "confidence": 0.5853075920781171,
+    "bbox": null,
+    "metadata": {
+      "previous_value": 12,
+      "current_value": 10,
+      "source": "ocr",
+      "confidence_available": true
+    }
+  },
+  {
+    "timestamp": 85.22674957515835,
+    "frame_id": 2557,
+    "event": "character_detected",
+    "object_id": 8,
+    "object_type": "character",
+    "confidence": 0.6442159414291382,
+    "bbox": [
+      739.7916259765625,
+      624.9652099609375,
+      970.7406005859375,
+      932.0142822265625
+    ]
+  },
+  {
+    "timestamp": 85.82670322879655,
+    "frame_id": 2575,
+    "event": "ammo_changed",
+    "object_id": "ammo",
+    "object_type": "ammo",
+    "confidence": 0.999917032055464,
+    "bbox": null,
+    "metadata": {
+      "previous_value": 10,
+      "current_value": 8,
+      "source": "ocr",
+      "confidence_available": true
+    }
+  }
+]

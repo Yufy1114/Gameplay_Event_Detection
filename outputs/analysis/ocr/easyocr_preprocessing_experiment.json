@@ -1,0 +1,698 @@
+[
+  {
+    "timestamp": 79.0,
+    "gt": 14,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 79.0,
+    "gt": 14,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 79.0,
+    "gt": 14,
+    "variant": "otsu_3x",
+    "text": "24",
+    "parsed": 24,
+    "confidence": 0.40933372864611545
+  },
+  {
+    "timestamp": 79.25,
+    "gt": 14,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 79.25,
+    "gt": 14,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 79.25,
+    "gt": 14,
+    "variant": "otsu_3x",
+    "text": "2",
+    "parsed": 2,
+    "confidence": 0.37660958641403397
+  },
+  {
+    "timestamp": 79.5,
+    "gt": 14,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 79.5,
+    "gt": 14,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 79.5,
+    "gt": 14,
+    "variant": "otsu_3x",
+    "text": "14",
+    "parsed": 14,
+    "confidence": 0.5570310084319887
+  },
+  {
+    "timestamp": 79.75,
+    "gt": 14,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 79.75,
+    "gt": 14,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 79.75,
+    "gt": 14,
+    "variant": "otsu_3x",
+    "text": "1",
+    "parsed": 1,
+    "confidence": 0.9447448414244377
+  },
+  {
+    "timestamp": 80.0,
+    "gt": 14,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 80.0,
+    "gt": 14,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 80.0,
+    "gt": 14,
+    "variant": "otsu_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": 0.0
+  },
+  {
+    "timestamp": 80.25,
+    "gt": 13,
+    "variant": "raw_3x",
+    "text": "15",
+    "parsed": 15,
+    "confidence": 0.3217874029459787
+  },
+  {
+    "timestamp": 80.25,
+    "gt": 13,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": 0.0
+  },
+  {
+    "timestamp": 80.25,
+    "gt": 13,
+    "variant": "otsu_3x",
+    "text": "27",
+    "parsed": 27,
+    "confidence": 0.4042375550268857
+  },
+  {
+    "timestamp": 80.5,
+    "gt": 13,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 80.5,
+    "gt": 13,
+    "variant": "gray_3x",
+    "text": "75",
+    "parsed": 75,
+    "confidence": 0.3059870989821864
+  },
+  {
+    "timestamp": 80.5,
+    "gt": 13,
+    "variant": "otsu_3x",
+    "text": "12",
+    "parsed": 12,
+    "confidence": 0.7906370556255107
+  },
+  {
+    "timestamp": 80.75,
+    "gt": 12,
+    "variant": "raw_3x",
+    "text": "12",
+    "parsed": 12,
+    "confidence": 0.5731461827844242
+  },
+  {
+    "timestamp": 80.75,
+    "gt": 12,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 80.75,
+    "gt": 12,
+    "variant": "otsu_3x",
+    "text": "22",
+    "parsed": 22,
+    "confidence": 0.6113161696489253
+  },
+  {
+    "timestamp": 81.0,
+    "gt": 12,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 81.0,
+    "gt": 12,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 81.0,
+    "gt": 12,
+    "variant": "otsu_3x",
+    "text": "212",
+    "parsed": 212,
+    "confidence": 0.7895790807078368
+  },
+  {
+    "timestamp": 81.25,
+    "gt": 12,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 81.25,
+    "gt": 12,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 81.25,
+    "gt": 12,
+    "variant": "otsu_3x",
+    "text": "42",
+    "parsed": 42,
+    "confidence": 0.2931101591089854
+  },
+  {
+    "timestamp": 81.5,
+    "gt": 12,
+    "variant": "raw_3x",
+    "text": "12",
+    "parsed": 12,
+    "confidence": 0.8225601881562783
+  },
+  {
+    "timestamp": 81.5,
+    "gt": 12,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 81.5,
+    "gt": 12,
+    "variant": "otsu_3x",
+    "text": "22",
+    "parsed": 22,
+    "confidence": 0.8983005548621914
+  },
+  {
+    "timestamp": 81.75,
+    "gt": 12,
+    "variant": "raw_3x",
+    "text": "4",
+    "parsed": 4,
+    "confidence": 0.04156162745353331
+  },
+  {
+    "timestamp": 81.75,
+    "gt": 12,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 81.75,
+    "gt": 12,
+    "variant": "otsu_3x",
+    "text": "2",
+    "parsed": 2,
+    "confidence": 0.9915224744450057
+  },
+  {
+    "timestamp": 82.0,
+    "gt": 12,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 82.0,
+    "gt": 12,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 82.0,
+    "gt": 12,
+    "variant": "otsu_3x",
+    "text": "2812",
+    "parsed": 2812,
+    "confidence": 0.0964757576584816
+  },
+  {
+    "timestamp": 82.25,
+    "gt": 12,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 82.25,
+    "gt": 12,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 82.25,
+    "gt": 12,
+    "variant": "otsu_3x",
+    "text": "2212",
+    "parsed": 2212,
+    "confidence": 0.14031066000461578
+  },
+  {
+    "timestamp": 82.5,
+    "gt": 12,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 82.5,
+    "gt": 12,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 82.5,
+    "gt": 12,
+    "variant": "otsu_3x",
+    "text": "212",
+    "parsed": 212,
+    "confidence": 0.5876774355280114
+  },
+  {
+    "timestamp": 82.75,
+    "gt": 11,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 82.75,
+    "gt": 11,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 82.75,
+    "gt": 11,
+    "variant": "otsu_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": 0.0
+  },
+  {
+    "timestamp": 83.0,
+    "gt": 11,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 83.0,
+    "gt": 11,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 83.0,
+    "gt": 11,
+    "variant": "otsu_3x",
+    "text": "4",
+    "parsed": 4,
+    "confidence": 0.4865270240378692
+  },
+  {
+    "timestamp": 83.25,
+    "gt": 10,
+    "variant": "raw_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 83.25,
+    "gt": 10,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 83.25,
+    "gt": 10,
+    "variant": "otsu_3x",
+    "text": "81",
+    "parsed": 81,
+    "confidence": 0.20208074807450402
+  },
+  {
+    "timestamp": 83.5,
+    "gt": 10,
+    "variant": "raw_3x",
+    "text": "12",
+    "parsed": 12,
+    "confidence": 0.24548928130194844
+  },
+  {
+    "timestamp": 83.5,
+    "gt": 10,
+    "variant": "gray_3x",
+    "text": "50",
+    "parsed": 50,
+    "confidence": 0.32363772414593434
+  },
+  {
+    "timestamp": 83.5,
+    "gt": 10,
+    "variant": "otsu_3x",
+    "text": "210",
+    "parsed": 210,
+    "confidence": 0.9398149346059387
+  },
+  {
+    "timestamp": 83.75,
+    "gt": 10,
+    "variant": "raw_3x",
+    "text": "40",
+    "parsed": 40,
+    "confidence": 0.12645374189022043
+  },
+  {
+    "timestamp": 83.75,
+    "gt": 10,
+    "variant": "gray_3x",
+    "text": "",
+    "parsed": null,
+    "confidence": null
+  },
+  {
+    "timestamp": 83.75,
+    "gt": 10,
+    "variant": "otsu_3x",
+    "text": "40",
+    "parsed": 40,
+    "confidence": 0.13186173588218753
+  },
+  {
+    "timestamp": 84.0,
+    "gt": 10,
+    "variant": "raw_3x",
+    "text": "10",
+    "parsed": 10,
+    "confidence": 0.33826308903274
+  },
+  {
+    "timestamp": 84.0,
+    "gt": 10,
+    "variant": "gray_3x",
+    "text": "10",
+    "parsed": 10,
+    "confidence": 0.588865435172599
+  },
+  {
+    "timestamp": 84.0,
+    "gt": 10,
+    "variant": "otsu_3x",
+    "text": "10",
+    "parsed": 10,
+    "confidence": 0.5724732067210282
+  },
+  {
+    "timestamp": 84.25,
+    "gt": 9,
+    "variant": "raw_3x",
+    "text": "19",
+    "parsed": 19,
+    "confidence": 0.4956870194500001
+  },
+  {
+    "timestamp": 84.25,
+    "gt": 9,
+    "variant": "gray_3x",
+    "text": "19",
+    "parsed": 19,
+    "confidence": 0.722089337041242
+  },
+  {
+    "timestamp": 84.25,
+    "gt": 9,
+    "variant": "otsu_3x",
+    "text": "19",
+    "parsed": 19,
+    "confidence": 0.12640342092168286
+  },
+  {
+    "timestamp": 84.5,
+    "gt": 9,
+    "variant": "raw_3x",
+    "text": "9",
+    "parsed": 9,
+    "confidence": 0.868216466922313
+  },
+  {
+    "timestamp": 84.5,
+    "gt": 9,
+    "variant": "gray_3x",
+    "text": "9",
+    "parsed": 9,
+    "confidence": 0.8452520183758035
+  },
+  {
+    "timestamp": 84.5,
+    "gt": 9,
+    "variant": "otsu_3x",
+    "text": "28",
+    "parsed": 28,
+    "confidence": 0.38637524245466276
+  },
+  {
+    "timestamp": 84.75,
+    "gt": 9,
+    "variant": "raw_3x",
+    "text": "519",
+    "parsed": 519,
+    "confidence": 0.5903627210474074
+  },
+  {
+    "timestamp": 84.75,
+    "gt": 9,
+    "variant": "gray_3x",
+    "text": "9",
+    "parsed": 9,
+    "confidence": 0.9999672177140475
+  },
+  {
+    "timestamp": 84.75,
+    "gt": 9,
+    "variant": "otsu_3x",
+    "text": "219",
+    "parsed": 219,
+    "confidence": 0.30040515711495736
+  },
+  {
+    "timestamp": 85.0,
+    "gt": 9,
+    "variant": "raw_3x",
+    "text": "19",
+    "parsed": 19,
+    "confidence": 0.7011533751252816
+  },
+  {
+    "timestamp": 85.0,
+    "gt": 9,
+    "variant": "gray_3x",
+    "text": "19",
+    "parsed": 19,
+    "confidence": 0.9927320339646469
+  },
+  {
+    "timestamp": 85.0,
+    "gt": 9,
+    "variant": "otsu_3x",
+    "text": "19",
+    "parsed": 19,
+    "confidence": 0.7187211620051441
+  },
+  {
+    "timestamp": 85.25,
+    "gt": 8,
+    "variant": "raw_3x",
+    "text": "519",
+    "parsed": 519,
+    "confidence": 0.5284137127359009
+  },
+  {
+    "timestamp": 85.25,
+    "gt": 8,
+    "variant": "gray_3x",
+    "text": "9",
+    "parsed": 9,
+    "confidence": 0.9787116844996149
+  },
+  {
+    "timestamp": 85.25,
+    "gt": 8,
+    "variant": "otsu_3x",
+    "text": "219",
+    "parsed": 219,
+    "confidence": 0.6803649167869168
+  },
+  {
+    "timestamp": 85.5,
+    "gt": 8,
+    "variant": "raw_3x",
+    "text": "8",
+    "parsed": 8,
+    "confidence": 0.999999880790714
+  },
+  {
+    "timestamp": 85.5,
+    "gt": 8,
+    "variant": "gray_3x",
+    "text": "18",
+    "parsed": 18,
+    "confidence": 0.9844800379818691
+  },
+  {
+    "timestamp": 85.5,
+    "gt": 8,
+    "variant": "otsu_3x",
+    "text": "48",
+    "parsed": 48,
+    "confidence": 0.7138200575940219
+  },
+  {
+    "timestamp": 85.75,
+    "gt": 8,
+    "variant": "raw_3x",
+    "text": "8",
+    "parsed": 8,
+    "confidence": 0.9999995231628986
+  },
+  {
+    "timestamp": 85.75,
+    "gt": 8,
+    "variant": "gray_3x",
+    "text": "8",
+    "parsed": 8,
+    "confidence": 0.9999996423721633
+  },
+  {
+    "timestamp": 85.75,
+    "gt": 8,
+    "variant": "otsu_3x",
+    "text": "28",
+    "parsed": 28,
+    "confidence": 0.3515779529879895
+  },
+  {
+    "timestamp": 86.0,
+    "gt": 8,
+    "variant": "raw_3x",
+    "text": "8",
+    "parsed": 8,
+    "confidence": 0.9999995231628986
+  },
+  {
+    "timestamp": 86.0,
+    "gt": 8,
+    "variant": "gray_3x",
+    "text": "8",
+    "parsed": 8,
+    "confidence": 0.9999995231628986
+  },
+  {
+    "timestamp": 86.0,
+    "gt": 8,
+    "variant": "otsu_3x",
+    "text": "28",
+    "parsed": 28,
+    "confidence": 0.4654366985054681
+  }
+]

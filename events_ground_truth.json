@@ -1,0 +1,48 @@
+[
+  {
+    "timestamp": 37.3,
+    "event": "character_disappeared",
+    "note": "controlled character leaves view during continuous ADS transition"
+  },
+  {
+    "timestamp": 81.3,
+    "event": "character_detected",
+    "note": "additional training character enters the field of view"
+  },
+  {
+    "timestamp": 80.25,
+    "event": "ammo_changed",
+    "previous_value": 14,
+    "current_value": 13
+  },
+  {
+    "timestamp": 80.75,
+    "event": "ammo_changed",
+    "previous_value": 13,
+    "current_value": 12
+  },
+  {
+    "timestamp": 82.75,
+    "event": "ammo_changed",
+    "previous_value": 12,
+    "current_value": 11
+  },
+  {
+    "timestamp": 83.25,
+    "event": "ammo_changed",
+    "previous_value": 11,
+    "current_value": 10
+  },
+  {
+    "timestamp": 84.25,
+    "event": "ammo_changed",
+    "previous_value": 10,
+    "current_value": 9
+  },
+  {
+    "timestamp": 85.25,
+    "event": "ammo_changed",
+    "previous_value": 9,
+    "current_value": 8
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "frame_id": 2370,
+    "class_name": "character",
+    "type": "FP",
+    "cause": "duplicate/coarse controlled-character box retained after semantic NMS",
+    "bbox": [
+      532.5662841796875,
+      586.9393310546875,
+      988.0899658203125,
+      1006.5609130859375
+    ],
+    "confidence": 0.5886539220809937
+  },
+  {
+    "frame_id": 2370,
+    "class_name": "character",
+    "type": "FN",
+    "cause": "tighter controlled-character localization suppressed by semantic NMS",
+    "bbox": [
+      762,
+      587,
+      999,
+      952
+    ]
+  },
+  {
+    "frame_id": 2384,
+    "class_name": "character",
+    "type": "FP",
+    "cause": "duplicate/coarse controlled-character box",
+    "bbox": [
+      533.2215576171875,
+      627.1043701171875,
+      972.9410400390625,
+      1074.4307861328125
+    ],
+    "confidence": 0.7514022588729858
+  },
+  {
+    "frame_id": 2384,
+    "class_name": "character",
+    "type": "FN",
+    "cause": "controlled-character localization mismatch at IoU 0.5",
+    "bbox": [
+      741,
+      630,
+      975,
+      936
+    ]
+  },
+  {
+    "frame_id": 2528,
+    "class_name": "character",
+    "type": "FP",
+    "cause": "duplicate controlled-character detection",
+    "bbox": [
+      447.20037841796875,
+      638.343505859375,
+      897.5509643554688,
+      1039.3675537109375
+    ],
+    "confidence": 0.28453028202056885
+  },
+  {
+    "frame_id": 2542,
+    "class_name": "character",
+    "type": "FP",
+    "cause": "nested duplicate controlled-character box",
+    "bbox": [
+      766.602783203125,
+      636.237060546875,
+      966.0252685546875,
+      924.41015625
+    ],
+    "confidence": 0.2624591588973999
+  },
+  {
+    "frame_id": 2542,
+    "class_name": "character",
+    "type": "FN",
+    "cause": "coarse-vs-tight controlled-character localization mismatch",
+    "bbox": [
+      521,
+      632,
+      966,
+      931
+    ]
+  },
+  {
+    "frame_id": 1123,
+    "class_name": "vehicle",
+    "type": "FN",
+    "cause": "UAZ visible but only oversized scope/truck prediction was produced and filtered",
+    "bbox": [
+      785,
+      520,
+      1080,
+      685
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "detector": {
+    "backend": "ultralytics",
+    "model_name": "yolo11n.pt",
+    "confidence_threshold": 0.25,
+    "image_size": 960,
+    "target_classes": ["person", "car", "truck"],
+    "class_mapping": {
+      "person": "character",
+      "car": "vehicle",
+      "truck": "vehicle"
+    },
+    "class_filters": {
+      "character": {
+        "min_bbox_area_ratio": 0.003,
+        "max_bbox_area_ratio": 0.35,
+        "min_aspect_ratio": 0.2,
+        "max_aspect_ratio": 1.5
+      },
+      "vehicle": {
+        "min_bbox_area_ratio": 0.002,
+        "max_bbox_area_ratio": 0.2,
+        "min_aspect_ratio": 0.7,
+        "max_aspect_ratio": 3.5
+      }
+    },
+    "semantic_nms_iou_threshold": 0.3,
+    "device": null
+  },
+  "analysis_segments": [
+    {
+      "start": 37.0,
+      "end": 42.5,
+      "purpose": "vehicle"
+    },
+    {
+      "start": 79.0,
+      "end": 86.0,
+      "purpose": "character"
+    }
+  ],
+  "tracker": {
+    "backend": "iou",
+    "iou_matching_threshold": 0.1,
+    "max_missing_frames": 30
+  },
+  "temporal_smoothing": {
+    "min_confirmation_frames": 5,
+    "disappearance_frames": 15
+  },
+  "ocr": {
+    "enabled": true,
+    "backend": "easyocr",
+    "rois": {
+      "ammo": [0.3583333333, 0.9490740741, 0.3723958333, 0.9888888889]
+    },
+    "min_stable_frames": 3,
+    "sample_every_frames": 5,
+    "upscale_factor": 4,
+    "min_confidence": 0.25
+  },
+  "minimap": {
+    "enabled": false,
+    "roi": [0.7109375, 0.0, 0.8619791667, 0.2777777778],
+    "hsv_lower": [22, 120, 120],
+    "hsv_upper": [38, 255, 255],
+    "marker_min_area": 900,
+    "marker_max_area": 2200,
+    "marker_min_circularity": 0.45,
+    "border_min_pixels": 0
+  },
+  "output": {
+    "json_path": "outputs/events.json",
+    "csv_path": "outputs/events.csv",
+    "visualization_enabled": false,
+    "video_path": "outputs/annotated.mp4",
+    "show_recent_events": true
+  },
+  "evaluation": {
+    "detection_iou_threshold": 0.5,
+    "event_time_tolerance_seconds": 0.5
+  }
+}
